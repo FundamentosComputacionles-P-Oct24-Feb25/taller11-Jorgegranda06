@@ -1,7 +1,7 @@
 # Taller11
 
 * Para el taller se debe usar los conceptos de funciones y procedimientos
-## Integgrantes: Jorge Granda, Andrea Arias
+## Integrantes: Jorge Granda, Andrea Arias
 ### Problema 01
 
 Generar una solución que implemente 3 funciones. Que permitan calcular el área de un cuadrado, área de un triángulo y área de un rectángulo.
